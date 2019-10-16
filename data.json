@@ -6,7 +6,7 @@
   "background_img": "https://upload.wikimedia.org/wikipedia/commons/5/50/Lincoln_memorial_dc_20041011_095847_1.3008x2000.jpg",
   "color_theme": {"background": "#1E90FF", "font": "#8b0000", "link_color": "#e24401"},
   "global_brainhack_organizers": ["Cameron Craddock"],
-  "registration_link":"https://goo.gl/forms/fRUt1uYjInnxY1U23",
+  "registration_link":"https://forms.gle/wpsqA6aaUnA96MFh9",
   "slack_link":"https://brainhack-slack-invite.herokuapp.com/",
   "project_submit_link":"http://brainhack.org/submit-project/",
   "title_photo_link":"/img/Georgetown.jpg",
