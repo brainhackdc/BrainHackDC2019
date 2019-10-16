@@ -40,7 +40,7 @@
     "location_name": "Georgetown University",
     "location_url":"https://psychology.georgetown.edu/#",
     "google_maps_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3104.656896619981!2d-77.07446418464927!3d38.908960679568786!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89b7b647157cd4f3%3A0xe34b93feff7cfc9c!2sWhite-Gravenor%20Hall%2C%20Washington%2C%20DC%2020007!5e0!3m2!1sen!2sus!4v1571174674753!5m2!1sen!2sus",
-    "sponsors": [{"name": "CFMI", "url": "https://cfmi.georgetown.edu/", "logo": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Georgetown_University_-36.JPG"}],
+    "sponsors": [{"name": "CFMI", "url": "https://cfmi.georgetown.edu/", "logo": "./img/JohnVM-Web.jpg"}],
     "organizers": ["Shawn Rhoads (chair)", "Laura Blevins", "John VanMeter", "Junaid Merchant", "Jeremy Purcell", "Ben Rickles"]
 
 }
